@@ -1,0 +1,13 @@
+#home {
+    background: #ffc107;
+    color: white;
+}
+
+.caixa {
+    padding: 60px 0px;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.308);
+}
+
+.rodape {
+    margin: 5px 15px;
+}
